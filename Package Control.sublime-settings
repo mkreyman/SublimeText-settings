@@ -1,0 +1,17 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Fix Mac Path",
+		"Package Control",
+		"GitGutter",
+		"RuboCop",
+		"SublimeLinter-ruby",
+		"Terminal"
+	],
+	"repositories":
+	[
+	]
+}
