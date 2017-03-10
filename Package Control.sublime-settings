@@ -5,8 +5,8 @@
 	"installed_packages":
 	[
 		"Fix Mac Path",
-		"Package Control",
 		"GitGutter",
+		"Package Control",
 		"RuboCop",
 		"SublimeLinter-ruby",
 		"Terminal"
